@@ -37,6 +37,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@walletconnect/jsonrpc-types", "npm:1.0.3"],\
             ["@walletconnect/jsonrpc-utils", "npm:1.0.8"],\
             ["ethers", "npm:6.4.0"],\
+            ["events", "npm:3.3.0"],\
             ["framer-motion", "virtual:0128e31f7df78b38413c90dda42920080666deb7ba2c1cbf1178f4b2d52c8f1272be85a8aed9170189db1a690c107063d2e4bbd76a92330df68e82e8b97d632b#npm:10.12.16"],\
             ["react", "npm:18.2.0"],\
             ["react-dom", "virtual:0128e31f7df78b38413c90dda42920080666deb7ba2c1cbf1178f4b2d52c8f1272be85a8aed9170189db1a690c107063d2e4bbd76a92330df68e82e8b97d632b#npm:18.2.0"],\
@@ -6006,6 +6007,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@walletconnect/jsonrpc-types", "npm:1.0.3"],\
             ["@walletconnect/jsonrpc-utils", "npm:1.0.8"],\
             ["ethers", "npm:6.4.0"],\
+            ["events", "npm:3.3.0"],\
             ["framer-motion", "virtual:0128e31f7df78b38413c90dda42920080666deb7ba2c1cbf1178f4b2d52c8f1272be85a8aed9170189db1a690c107063d2e4bbd76a92330df68e82e8b97d632b#npm:10.12.16"],\
             ["react", "npm:18.2.0"],\
             ["react-dom", "virtual:0128e31f7df78b38413c90dda42920080666deb7ba2c1cbf1178f4b2d52c8f1272be85a8aed9170189db1a690c107063d2e4bbd76a92330df68e82e8b97d632b#npm:18.2.0"],\
